@@ -1,0 +1,11 @@
+git clone
+cd 
+touch
+git status
+git add .
+git commit -m
+git config
+git push origin
+git branch
+mkdir
+mv
